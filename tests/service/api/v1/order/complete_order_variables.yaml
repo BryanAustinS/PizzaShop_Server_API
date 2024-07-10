@@ -1,0 +1,38 @@
+---
+
+name: Common
+description: common test information
+
+variables:
+  not_available_id: "00000000-0000-0000-0000-000000000000"
+  dough_name: "Neopolitan"
+  dough_price: 5.20
+  dough_description: "Neopolitan Dough"
+  dough_stock: 12
+
+  beverage_name: "Spezi"
+  beverage_price: 1.25
+  beverage_description: "Spezi Company"
+  beverage_stock: 12
+  order_beverage_quantity: 1
+
+  pizza_name: "Salami"
+  pizza_price: 5.0
+  pizza_description: "Italian quality"
+
+  topping_name: "Shimeji"
+  topping_price: 1.00
+  topping_description: "japanese mushroom"
+  topping_stock: 4
+  quantity: 3
+
+  username: "Lab Engineer"
+
+  address_street: "Birkenweg"
+  address_post_code: "64295"
+  address_house_number: 7
+  address_country: "Germany"
+  address_town: "Darmstadt"
+  address_first_name: "Ralf"
+  address_last_name: "Hahn"
+

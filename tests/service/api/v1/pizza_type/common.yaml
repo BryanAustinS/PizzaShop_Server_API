@@ -1,0 +1,22 @@
+---
+
+name: Common
+description: common test information
+
+variables:
+  not_available_id: "00000000-0000-0000-0000-000000000000"
+  pizza_name: "Salami"
+  pizza_price: 5
+  pizza_description: "Italian quality"
+
+  topping_name: "Salami"
+  topping_price: 1.50
+  topping_description: "Italian quality"
+  topping_stock: 10
+  quantity: 5
+
+  dough_name: "Whole Grain"
+  dough_price: 1.50
+  dough_description: "Test Dough"
+  dough_stock: 10
+
